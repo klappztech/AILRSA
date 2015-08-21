@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="klappztech.com.ailrsa.bookmarks">
+
+
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/delete_id"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Delete Bookmarks"
+       />
+
+
+    <!-- Settings, should always be in the overflow -->
+
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="light_blue">#54A4DE</color>
+    <color name="bg_red">#862121</color>
+    <color name="toolbar_pressed">#eeeeee</color>
+    <color name="fg_fade">#96ffffff</color>
+    <color name="buttonBorder">#66000000</color>
+    <color name="buttonGlow">#88ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="button_bg">#ffffff</color>
+
+    <drawable name="selected_item">#4454A4DE</drawable>
+
+
+</resources>
